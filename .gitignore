@@ -1,0 +1,8 @@
+*.mp4
+*.mov
+*.avi
+*.zip
+*.rar
+node_modules/
+.DS_Store
+Thumbs.db
